@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Check Image Resolution
-Description: Checks if the uploaded image has a DPI greater than 96 and if it is not in CMYK color model.
+Description: Checks if the uploaded image has a DPI greater than 96 and if it is not in RGB color model.
 Version: 1.0
 Author: jhalitschke
 */
